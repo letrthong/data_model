@@ -5,5 +5,5 @@ The metadata file (or model.json) in a Common Data Model folder describes the da
 Common Data Model 
 
 # 
-https://docs.microsoft.com/en-us/common-data-model/sdk/manifest 
-https://docs.microsoft.com/en-us/common-data-model/model-json
+-https://docs.microsoft.com/en-us/common-data-model/sdk/manifest 
+-https://docs.microsoft.com/en-us/common-data-model/model-json
