@@ -1,0 +1,33 @@
+[
+  {
+               "from": "hmi",
+               "to": "gpio",
+               "name": "xyz",
+               "description": "adc 01",
+               "timeStamp": 12323213,
+               "messageId: "",
+               "ID" : "",
+               "parameterList" : [
+                               {
+                                              "type": "adc",
+                                              "base": "interger"
+                                              "description": "adc 01",
+                                              "id": 1,
+                                              "interger": 0,
+                                              "string": "",
+                                              "max": 255,
+                                              "min":  0
+                               },
+                               {
+                                              "type": "adc",
+                                              "base": "string"
+                                              "description": "adc 01",
+                                              "id": 1,
+                                              "interger": 0,
+                                              "string": "0",
+                                              "max": 255,
+                                              "min":  0
+                               }
+               ]
+  }
+]
