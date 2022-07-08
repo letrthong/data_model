@@ -8,3 +8,7 @@ Common Data Model
  - https://docs.microsoft.com/en-us/common-data-model/sdk/manifest 
  - https://docs.microsoft.com/en-us/common-data-model/model-json
  - https://docs.microsoft.com/en-us/common-data-model/cdm-manifest
+ 
+ 
+ 
+ https://docs.microsoft.com/en-us/rest/api/automation/software-update-configurations/create 
