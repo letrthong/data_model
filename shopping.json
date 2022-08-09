@@ -23,7 +23,7 @@
     "visible" : true,
     "environmentalCertification" :{
          "RoHSStatus": "ROHS3 Compliant",
-          "CE": true,
+          "CEMarking": true,
          "MoistureSensitivityLevel " : 1
     },
     "exportCertification" :{
