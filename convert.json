@@ -5,8 +5,8 @@
                "name": "xyz",
                "description": "adc 01",
                "timeStamp": 12323213,
-               "messageId: "",
-               "ID" : "",
+               "messageId: "str",
+               "ID" : "str",
                "parameterList" : [
                                {
                                               "type": "adc",
