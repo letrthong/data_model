@@ -21,9 +21,14 @@
     "series": "BME680",
     "productType": "Air Quality Sensors",
     "visible" : true,
-    "Certification" :{
+    "environmentalCertification" :{
          "RoHSStatus": "ROHS3 Compliant",
-          "CE": true
+          "CE": true,
+         "MoistureSensitivityLevel " : 1
+    },
+    "exportCertification" :{
+         "ECCN": "EAR99",
+          "HTSUS": "9027.89.4590"
     }
   }
 ]
