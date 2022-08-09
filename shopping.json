@@ -20,6 +20,10 @@
     "iconPath": "abc.text",
     "series": "BME680",
     "productType": "Air Quality Sensors",
-    "visible" : true
+    "visible" : true,
+    "Certification" :{
+         "RoHS3": true,
+          "CE": true
+    }
   }
 ]
