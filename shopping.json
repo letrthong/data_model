@@ -14,7 +14,7 @@
     "productId": "12321323",
     "stock": 1,
     "Manufacturer": "Bosch",
-    "description": "Air Quality Sensors",
+    "b64Description": "Air Quality Sensors",
     "unitPrice": 18.99,
     "currencyUnit": "USD",
     "iconPath": "abc.text",
