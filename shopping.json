@@ -1,0 +1,23 @@
+[ 
+ {
+    "productId" : "12321323",
+    "quantity" : 1 
+ }
+]
+
+
+[
+  {
+    "Subcategory": "Sensors",
+    "productCategory": "Air Quality Sensors",
+    "productId": "12321323",
+    "Stock": 1,
+    "Manufacturer": "Bosch",
+    "description": "Air Quality Sensors",
+    "unitPrice": 18.99,
+    "currencyUnit": "USD",
+    "iconPath": "abc.text",
+    "series": "BME680",
+    "productType": "Air Quality Sensors"
+  }
+]
