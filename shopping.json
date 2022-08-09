@@ -8,7 +8,8 @@
 
 [
   {
-    "Subcategory": "Sensors",
+    "category": "Sensors",
+    "subcategory": "Sensors",
     "productCategory": "Air Quality Sensors",
     "productId": "12321323",
     "Stock": 1,
