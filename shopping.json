@@ -18,6 +18,7 @@
     "currencyUnit": "USD",
     "iconPath": "abc.text",
     "series": "BME680",
-    "productType": "Air Quality Sensors"
+    "productType": "Air Quality Sensors",
+    "visible" : true
   }
 ]
