@@ -22,7 +22,7 @@
     "productType": "Air Quality Sensors",
     "visible" : true,
     "Certification" :{
-         "RoHS3": true,
+         "RoHSStatus": "ROHS3 Compliant",
           "CE": true
     }
   }
