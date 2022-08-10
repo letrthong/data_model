@@ -30,6 +30,6 @@
          "ECCN": "EAR99",
           "HTSUS": "9027.89.4590"
     },
-    "specialLocation" :["VNM", "IND"]
+    "onlyCountries" :["VNM", "IND"]
   }
 ]
