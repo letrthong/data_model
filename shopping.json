@@ -34,17 +34,18 @@
   }
 ]
 
+{
+  "registerAccount": true,
+  "email": "abc@email.com",
+  "FistName": "str",
+  "lastName": "str",
+  "country": "USA",
+  "phoneCode": "+84",
+  "phoneNumber": "12345678",
+  "address": "str",
+  "city": "str",
+  "state": "str",
+  "zipCode": "str",
+  "notes": "str"
+}
 
-  {
-    "country/Region": "USA",
-	  "phone":"
-	  "region":
-	  address
-   	phone number
-    	email
-	 full name
-	postCode
-	City
-	province/state
-	
-  }
