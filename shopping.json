@@ -49,3 +49,13 @@
   "notes": "str"
 }
 
+// Logistics Supplier
+[
+  {
+    
+    "SupplierID": "DHL",
+    "b64Description": "DHL International Express-3-5 business days",
+     "unitPrice": 18.99,
+      "currencyUnit": "USD" 
+  }
+]
