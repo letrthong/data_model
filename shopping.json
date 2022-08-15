@@ -68,12 +68,12 @@
          {
            "type": "temperature"
             "textID" : "temperature",
-            "Id": "Sensors_temperature"
+            "Id": "Id_Sensors_temperature"
          },
          {
            "type": "aqi"
             "textID" : "aqi"
-             "Id": "Sensors_aqi"
+             "Id": "Id_Sensors_aqi"
          }
      ]
  }
