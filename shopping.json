@@ -59,3 +59,20 @@
       "currencyUnit": "USD" 
   }
 ]
+
+[
+ {
+   "category" : "Sensors"
+   "textID" : "Sensors",
+    "subcategory" [
+         {
+           "type": "temperature"
+            "textID" : "temperature"
+         },
+          {
+           "type": "aqi"
+            "textID" : "aqi"
+         }
+     ]
+ }
+]
