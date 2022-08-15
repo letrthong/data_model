@@ -67,11 +67,13 @@
     "subcategory" [
          {
            "type": "temperature"
-            "textID" : "temperature"
+            "textID" : "temperature",
+            "Id": "Sensors_temperature"
          },
-          {
+         {
            "type": "aqi"
             "textID" : "aqi"
+             "Id": "Sensors_aqi"
          }
      ]
  }
