@@ -35,16 +35,16 @@
 ]
 
 {
-  "registerAccount": true,
   "email": "abc@email.com",
   "FistName": "str",
   "lastName": "str",
   "country": "USA",
   "phoneCode": "+84",
   "phoneNumber": "12345678",
-  "address": "str",
-  "city": "str",
   "state": "str",
+  "city": "str",
+  "streetAddress": "str",
+  "subAddress": "str",
   "zipCode": "str",
   "notes": "str"
 }
