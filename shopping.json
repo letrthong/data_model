@@ -36,7 +36,7 @@
 
 {
   "email": "abc@email.com",
-  "FistName": "str",
+  "fistName": "str",
   "lastName": "str",
   "country": "USA",
   "phoneCode": "+84",
